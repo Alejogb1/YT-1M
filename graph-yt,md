@@ -1,0 +1,13 @@
+a research regardign how to graph the entire corpus of youtube and how to traverse it
+
+
+regarding both of these what well-cited papers around this, already exist? 
+
+Graph Construction:
+
+Develop methods to collect and preprocess data.
+Use graph libraries (e.g., NetworkX, igraph) to construct the graph.
+Graph Traversal Techniques:
+
+Explore different traversal algorithms (BFS, DFS, Dijkstra's, A*).
+Determine the traversal goals (e.g., finding shortest paths, identifying communities, detecting anomalies).
